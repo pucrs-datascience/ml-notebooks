@@ -1,0 +1,8 @@
+traitlets
+nose
+numpy
+scipy
+pandas
+matplotlib
+jupyter
+scikit-learn
