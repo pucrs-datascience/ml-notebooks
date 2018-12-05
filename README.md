@@ -1,17 +1,14 @@
 # ml-notebooks
 Notebooks de exercícios para a disciplina de Aprendizado de Máquina. 
 
+## Pesos dos exercícios
 
-## Entrega dos notebooks
 
-Todos os notebooks de exercícios devem estar resolvidos até o dia **24/11/2018**.
+|                 | Tarefa 1 | Tarefa 2 | Tarefa 3 | Tarefa 4 | Tarefa 5 | Tarefa 6 | Tarefa 7 |
+|:---------------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|:--------:|
+| preprocessing   |   1.5    |    2     |    2     |    1.5   |     1    |    1     |     1    |
+| neural networks |    1     |    1     |   1.5    |    1.5   |     1    |    0     |     4    |
 
-Os notebooks a serem coletados devem ser os que estão disponibilizados no **seu repositório. Não utilize os notebooks que estão no repositório ml-notebooks, 
-pois podem haver diferenças no ID dos boxes, invalidando a correção dos exercícios no autograder.**
-
-### Como será feita a coleta dos notebooks?
-
-Executaremos um script que percorrerá **todos os repositórios dos alunos a meia noite desta data**. Os notebooks serão copiados para a máquina dos professores, e então o autograder será executado. Portanto, **certifique-se de fazer um push para o seu repositório remoto antes da data limite de coleta.** Além disso, você não precisa fazer mais nada. **Não envie seus notebooks por e-mail após esta data, pois os mesmos não serão considerados.**
 
 ## Criação do ambiente virtual 
 Para fazer os exercícios, é necessário criar um ambiente virtual no Anaconda:
